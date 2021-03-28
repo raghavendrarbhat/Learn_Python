@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51cfadaf-1922-45ab-9fbc-6991e6281de5" name="Default Changelist" comment="">
-      <change beforePath="D:/Learn_Python/.idea/vcs.xml" beforeDir="false" afterPath="D:/Learn_Python/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="51cfadaf-1922-45ab-9fbc-6991e6281de5" name="Default Changelist" comment="Added a comment">
+      <change beforePath="D:/Learn_Python/.idea/workspace.xml" beforeDir="false" afterPath="D:/Learn_Python/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="D:/Learn_Python" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b37836ce-f996-4978-89eb-b25fce1e1fc4" />
+  </component>
   <component name="ProjectId" id="1qOtTHrcCszwABirbeO4ELUNL3F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="D:/Learn_Python" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Python.addition">
     <configuration name="addition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -92,6 +95,70 @@
       <option name="presentableId" value="Default" />
       <updated>1616962470083</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added a comment">
+      <created>1616964351733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616964351733</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added a comment">
+      <created>1616964469229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616964469229</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added a comment">
+      <created>1616964482133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616964482133</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added a comment">
+      <created>1616964622410</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616964622410</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added a comment">
+      <created>1616964716207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616964716207</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a comment">
+      <created>1616964744033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616964744033</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added a comment">
+      <created>1616964824112</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616964824112</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added a comment">
+      <created>1616964956807</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616964956807</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added a comment">
+      <created>1616965973798</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616965973798</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -100,6 +167,8 @@
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="2000" />
+    <MESSAGE value="Added a comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
